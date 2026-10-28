@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Olá! Sejam bem vindo ao meu Github!</h2>
+<h2 data-importer="text" align="center">Olá! Sejam bem vindos ao meu Github!</h2>
 
 ###
 
